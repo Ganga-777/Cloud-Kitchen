@@ -1,0 +1,21 @@
+// App color scheme
+export const colors = {
+  primary: '#FF5A5F',
+  primaryLight: '#FFE2E3',
+  secondary: '#3A86FF',
+  secondaryLight: '#E0EAFF',
+  background: '#FFFFFF',
+  card: '#FFFFFF',
+  text: '#1A1A1A',
+  textLight: '#757575',
+  textExtraLight: '#ABABAB',
+  border: '#EEEEEE',
+  success: '#4CAF50',
+  error: '#F44336',
+  warning: '#FFC107',
+  info: '#2196F3',
+  white: '#FFFFFF',
+  black: '#000000',
+  gray: '#F8F8F8',
+  grayDark: '#E0E0E0',
+};
